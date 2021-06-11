@@ -29,7 +29,9 @@ module.exports = {
   TYPE: {
     STATIC: "static",
     DYNAMIC: "dynamic",
-    KINEMATIC: "kinematic"
+    KINEMATIC: "kinematic",
+    MOVE: "move"
+
   },
   SHAPE: {
     BOX: "box",
